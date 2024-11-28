@@ -1,0 +1,8 @@
+Chapter 11: DUAL NATURE OF RADIATION AND MATTER
+
+Q1) How cathode rays were discovered ? Define the work function of the metal. Define the electron volt(eV).
+Q2) Explain the physical processes of emitting the electrons from the metal surface.
+Q3) Explain the Hertz’s observations & Hallwachs’ and Lenard’s observations. Draw the conclusions.
+Q4) Explain the Experimental arrangement for study of photoelectric effect with a neat labelled diagram. Define the stopping potential. Explain the Effect of intensity of light, potential on photoelectric current. Explain the effect of frequency of incident radiation on stopping potential. Draw the graphs in each situation. Write the two implications of the above observations. Summarise the experimental features and observations.
+Q5) Explain the wave nature of light is unable to  the most basic features of photoelectric emission.Explain the particle nature of light is able to  the most basic features of photoelectric emission.
+Q6) Explain the wave nature of particle and derive the formula for de Broglie wavelength.
